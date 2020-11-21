@@ -1,4 +1,4 @@
-import 'package:dart_linked_list/singly_linked_list.dart';
+import 'package:dart_linked_list/src/singly_linked_list.dart';
 import 'package:test/test.dart';
 
 void main() {
